@@ -7,10 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/e8ec9aa329.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
-
     <title>Document</title>
 </head>
-
 <body>
     <div class="container">
         <div class="profile-area">
@@ -33,7 +31,6 @@
                     <div class="notify alert">
                         <i class="fa-sharp fa-solid fa-bell"></i>
                     </div>
-
                 </div>
                 <div class="progress-status">10/53</div>
                 <div class="progress">
@@ -64,8 +61,6 @@
                     <div class="tag">Work</div>
                     <div class="tag">Event</div>
                     <div class="tag">Personal</div>
-
-
                 </div>
             </div>
         </div>
@@ -128,26 +123,11 @@
                                 <input id="pac-input"type="text" placeholder="Location" class="event-location">
                                 <button class="add-event-btn-map " ><i class="fa-sharp fa-solid fa-location-dot"></i></button>
                                 <div id="googleMap" class="map  ">
-
-                                    <!-- <script>
-                                        function myMap() {
-                                        var mapProp= {
-                                        center:new google.maps.LatLng(51.508742,-0.120850),
-                                        zoom:5,
-                                        };
-                                        var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-                                        }
-                                    </script> -->
-                                    <!-- <script src="https://maps.googleapis.com/maps/api/js?key&callback=myMap"></script> -->
                                     <script
                                     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC69dkDskDMsxSvZiCqAd9thxLDBohuBJI&callback=initAutocomplete&libraries=places&v=weekly"
                                     defer
                                   ></script>
                                 </div>
-
-
-
-
                             </div>
                             <div class="add-event-input">
                                 <input type="text" placeholder="From" class="event-from">
@@ -168,111 +148,12 @@
                         <div class="event-date">10 November 2023</div>
                     </div>
                     <div class="events">
-                        <!-- <div class="event">
-                            <div class="event-tag1">
-                                <div class="title">
-
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div>    
-                                                   
-                        <div class="event">
-                            <div class="event-tag2">
-                                <div class="title">
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div> 
-                        <div class="event">
-                            <div class="event-tag3">
-                                <div class="title">
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div> 
-                        <div class="event">
-                            <div class="event-tag4">
-                                <div class="title">
-
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div> 
-                        <div class="event">
-                            <div class="event-tag1">
-                                <div class="title">
-
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div>    
-                                                   
-                        <div class="event">
-                            <div class="event-tag2">
-                                <div class="title">
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div> 
-                        <div class="event">
-                            <div class="event-tag3">
-                                <div class="title">
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div> 
-                        <div class="event">
-                            <div class="event-tag4">
-                                <div class="title">
-
-                                    <h3 class="event-title">Event 1</h3>
-                                </div>
-                                <div class="location">Location: VanLanguni</div>
-                                <div class="event-time" >07:00 AM - 12:00 AM</div>
-                            </div>
-                        </div> 
-                         -->
-                            
                     </div>
                     <button class="add-event">
                         <!-- <i class="fas fa-plus"></i> -->
                         NEW TASK
                     </button>
-        
                 </div>
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
             </div>
         </div>
     </div>
@@ -281,7 +162,6 @@
     </div>
     <script src="script.js"></script>
 </body>
-
 </html>
 <!-- style="color:black"
 style="color:black"
