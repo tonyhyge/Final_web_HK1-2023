@@ -66,7 +66,6 @@
         <div class="main-area">
             <div class="header">
                 <div class="search-bar">
-                    <!-- <i class="fa-solid fa-magnifying-glass"></i> -->
                     <input type="text" placeholder="Search...">
                 </div>
                 <div class="calendar-todolist">
