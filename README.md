@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/e8ec9aa329.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="/final/style.css">
+    <link rel="stylesheet" href="style.css">
 
     <title>Document</title>
 </head>
@@ -17,7 +17,7 @@
             <div class="task-manager">Task manager</div>
             <div class="side-wrapper">
                 <div class="user-profile">
-                    <img src="images/user1.png" alt="user-image" class="user-image">
+                    <img src="user1.png" alt="user-image" class="user-image">
                     <div class="user-name">
                         <b>Quang Minh Pham</b>
                     </div>
